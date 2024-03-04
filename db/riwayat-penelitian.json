@@ -1,0 +1,22 @@
+{
+	"riwayat": [
+		{
+			"id": 1,
+			"judul": "Pengembangan Aplikasi Game Edukasi Pengenalan Warna Berbasis Android Untuk Anak Usia Dini",
+			"status": "Tidak Didanai",
+			"tahun": 2023
+		},
+		{
+			"id": 2,
+			"judul": "Pengembangan Aplikasi Game Edukasi Pengenalan Warna Berbasis Android Untuk Anak Usia Dini",
+			"status": "Tidak Didanai",
+			"tahun": 2024
+		},
+		{
+			"id": 3,
+			"judul": "Pengembangan Aplikasi Game Edukasi Pengenalan Warna Berbasis Android Untuk Anak Usia Dini",
+			"status": "Didanai",
+			"tahun": 2022
+		}
+	]
+}
